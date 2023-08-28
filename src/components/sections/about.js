@@ -131,11 +131,13 @@ const About = () => {
     'JavaScript',
     'MySQL',
     'Azure',
+    'Google Cloud Platform',
     'Apache Kafka',
     'CodeIgniter',
     'PostgreSQL',
     'Laravel',
     'MongoDB',
+    'Redis',
   ];
 
   return (
@@ -146,14 +148,24 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hello! My name is Hanafi and I am currently open for job with a strong background in
-              software engineering and web development.
+              Hello! My name is Hanafi. I'm a software engineer and a university graduate with a Bachelor's degree in
+              Information Systems. I am currently open for job with a strong background in software engineering
+              and web development.
             </p>
 
             <p>
-              I have hands on experience in building microservices using Golang, Apache Kafka, ISO
-              8583 and MongoDB at{' '}
-              <a href="https://www.multipolar.com/en/homepage/">Multipolar Technology</a>.
+              Specializing in back-end development, I have extensive experience using technologies like
+              Golang, Apache Kafka, MongoDB, Redis, and MySQL.
+            </p>
+
+            <p>
+              Currently employed at {' '}
+              <a href="https://www.dikshatek.co.id/">PT Diksha Teknologi Indonesia</a>
+              working with client {' '},
+              <a href="http://www.bri.co.id/">PT Bank BRI</a>
+              I've excelled in optimizing internal tools and developing high-capacity APIs.
+              I'm eager to contribute to a collaborative, cross-functional team where I can continue to grow
+              and make a significant impact.
             </p>
 
             <p>
