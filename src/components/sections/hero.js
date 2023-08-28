@@ -65,9 +65,9 @@ const Hero = () => {
   const four = (
     <>
       <p>
-        I'm a software engineer and recent university graduate with a Bachelor's degree in Information Systems. My focus has been on back-end development. I have hands-on experience building microservices using Golang, Apache Kafka, and MongoDB. I have also built web applications using PHP, MySQL, and Azure App Service.
+        I'm a software engineer and a university graduate with a Bachelor's degree in Information Systems Specializing in back-end development, I have extensive experience using technologies like Golang, Apache Kafka, MongoDB, Redis, and MySQL.
       </p>
-      <p>Currently, I’m seeking for job opportunities.</p>
+      <p>Currently, I’m seeking for opportunities.</p>
     </>
   );
   const five = (
