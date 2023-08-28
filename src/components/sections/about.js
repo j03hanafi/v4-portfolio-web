@@ -161,9 +161,9 @@ const About = () => {
             <p>
               Currently employed at {' '}
               <a href="https://www.dikshatek.co.id/">PT Diksha Teknologi Indonesia</a>
-              working with client {' '},
+               working with client {' '}
               <a href="http://www.bri.co.id/">PT Bank BRI</a>
-              I've excelled in optimizing internal tools and developing high-capacity APIs.
+              , I've excelled in optimizing internal tools and developing high-capacity APIs.
               I'm eager to contribute to a collaborative, cross-functional team where I can continue to grow
               and make a significant impact.
             </p>
