@@ -7,6 +7,7 @@ range: 'May 2023 - Present'
 url: 'https://www.dikshatek.co.id/'
 ---
 
-- Client: PT Bank BRI (Smart Link)
-- Collaborated in a cross-functional team, implemented the optimization of an internal URL shortener tool, employing **Server-Sent Events**, **Redis Pub/Sub** and using **Go** to reduce response times by 50-60x based on internal benchmarks
-- Developed **APIs** for the BRIMO app, enabling it to efficiently handle 4,800 RPS. Implemented a **Redis**-based queuing mechanism and worker tasks using **Go** and **MySQL**, deployed on **GCP**
+- Client: PT Bank BRI
+- Developed **APIs** for the BRIMO app, enabling it to efficiently handle 4,800 RPS. Implemented a **Redis**-based queuing mechanism and worker tasks, using **Gin** framework in **Go** and **MySQL** framework **GORM**, deployed on **GCP**
+- Developed a notification service for the Stroberi Tagihan App using **Echo** framework in **Go**. Implemented email & SMS notifications with SMTP & SMS Gateway, and managed bulk messaging asynchronously with **Kafka**, reducing latency by 90% based on internal benchmarks
+- Optimized an internal URL shortener tool with **Server-Sent Events**, **Redis Pub/Sub** and using **Fiber** framework in **Go**, reducing response times by 50-60x based on internal benchmarks
